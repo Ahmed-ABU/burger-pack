@@ -1,2 +1,2 @@
-2
-https://github.com/Ahmed-ABU/burger-pack/releases/download/v2/BurgerPackV2.zip
+3
+https://github.com/Ahmed-ABU/burger-pack/releases/download/v3/BurgerPackV3.zip
